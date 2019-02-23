@@ -1,6 +1,6 @@
 # drive_test_ros
 
-Place the 2 folders above in you catkin workspace, seperately. After running a catkin_make, you can now try the simulation.
+Place the 2 folders above in you catkin workspace, **seperately**. After running a catkin_make, you can now try the simulation.
 First launch the simulation world by typing this in your terminal:
 ```
 roslaunch simulation test_world.launch 
